@@ -16,10 +16,9 @@
 
 [TOC]
 
-#Gestión de Cuentas Bancarias
-##Operaciones Bancarias
-###Seguridad y Autenticación
-####Generación de Reportes
-#####Interfaz de Usuario
-
+# Gestión de Cuentas Bancarias
+## Operaciones Bancarias
+### Seguridad y Autenticación
+#### Generación de Reportes
+##### Interfaz de Usuario
 
